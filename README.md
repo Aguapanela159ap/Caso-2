@@ -1,4 +1,4 @@
-# README – Caso 1: Optimización en la Planeación de Transporte Vehicular Urbana
+# README – Caso 1: 
 
 ## 1. Descripción General
 
